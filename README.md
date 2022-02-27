@@ -13,7 +13,7 @@ Discord: sh0tz#7297
 
 ## Main projects
 - [**sh0tzz/lang**](https://github.com/sh0tzz/lang) - a programming language
-- [**sh0tzz/tsrb-aip**](https://github.com/sh0tzz/tsrb-aip) - a repository of programming questions and their solutions given at TŠRB (my school)
+- [**sh0tzz/tsrb-aip**](https://github.com/sh0tzz/tsrb-aip) - a repository of programming questions and their solutions given at (my school)
 
 ## Setup
 PC: [i5-6402p](https://www.intel.com/content/www/us/en/products/sku/93277/intel-core-i56402p-processor-6m-cache-up-to-3-40-ghz/specifications.html) |
