@@ -12,6 +12,7 @@ Discord: sh0tz#7297
 </a>
 
 ## Main projects
+- A Magicite-like game
 - [**sh0tzz/lang**](https://github.com/sh0tzz/lang) - a programming language
 - [**sh0tzz/tsrb-aip**](https://github.com/sh0tzz/tsrb-aip) - a repository of programming questions and their solutions given at my school
 
