@@ -12,8 +12,7 @@ Discord: sh0tz#7297
 </a>
 
 ## Main projects
-- [**sh0tzz/lang**](https://github.com/sh0tzz/lang) - a programming language
-- [**sh0tzz/tsrb-aip**](https://github.com/sh0tzz/tsrb-aip) - a repository of programming questions and their solutions given at my school
+- [**sh0tzz/SGL**](https://github.com/sh0tzz/SGL) - C++ GUI library
 
 ## Setup
 PC: [i5-10600k](https://www.intel.com/content/www/us/en/products/sku/199311/intel-core-i510600k-processor-12m-cache-up-to-4-80-ghz/specifications.html) |
