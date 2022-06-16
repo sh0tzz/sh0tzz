@@ -7,8 +7,11 @@ Discord: sh0tz#7297
 <a href="https://www.python.org/">
     <img src="https://github.com/sh0tzz/sh0tzz/blob/main/assets/python_icon_40x40.png?raw=true"/>
 </a>
-<a href="https://sourceforge.net/projects/mingw/">
+<a href="https://github.com/sh0tzz/sh0tzz/blob/main/assets/c_icon_40x40.png?raw=true">
     <img src="https://github.com/sh0tzz/sh0tzz/blob/main/assets/c_icon_40x40.png?raw=true"/>
+</a>
+<a href="https://github.com/sh0tzz/sh0tzz/blob/main/assets/cpp_icon_40x40.png?raw=true">
+    <img src="https://github.com/sh0tzz/sh0tzz/blob/main/assets/cpp_icon_40x40.png?raw=true"/>
 </a>
 
 ## Main projects
@@ -52,7 +55,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
 
 <a href="https://ubuntu.com/">
   <img src="https://github.com/sh0tzz/sh0tzz/blob/main/assets/ubuntu_logo_40x40.png?raw=true" >
-</a>
-<a href="https://www.microsoft.com/en-us/software-download/windows10ISO">
-  <img src="https://github.com/sh0tzz/sh0tzz/blob/main/assets/win10_logo_40x40.png?raw=true">
 </a>
