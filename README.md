@@ -18,25 +18,26 @@ Terminal: [Kitty](https://sw.kovidgoyal.net/kitty/)<br>
 Shell: [ZSH](https://www.zsh.org/) with [OhMyZsh](https://ohmyz.sh/), [Starship Prompt](https://starship.rs/)<br>
 Editors: [micro](https://micro-editor.github.io/), [vscode](https://code.visualstudio.com/)
 ```
-➜ neofetch  
-            .-/+oossssoo+/-.               user@user 
-        `:+ssssssssssssssssss+:`           --------- 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 21.10 x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: MS-7C75 2.0 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.13.0-51-generic 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 20 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2034 (dpkg), 9 (flatpak), 12 (snap) 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.8 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080, 1920x1080 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: i3 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: kitty 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: Intel i5-10600K (12) @ 4.800GHz 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   GPU: NVIDIA 01:00.0 NVIDIA Corporation Device 2507 
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Memory: 2303MiB / 15920MiB 
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/                              
-    .ossssssssssssssssssdMMMNysssso.                               
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
+➜ neofetch
+       _,met$$$$$gg.          user@debian
+    ,g$$$$$$$$$$$$$$$P.       -----------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64
+ ,$$P'              `$$$.     Host: MS-7C75 2.0
+',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-15-amd64
+`d$$'     ,$P"'   .    $$$    Uptime: 8 hours
+ $$P      d$'     ,    $$P    Packages: 1414 (dpkg)
+ $$:      $$.   -    ,d$$'    Shell: zsh 5.8
+ $$;      Y$b._   _,d$P'      Resolution: 1920x1080, 1920x1080
+ Y$$.    `.`"Y$$$$P"'         WM: i3
+ `$$b      "-.__              Theme: Adwaita [GTK3]
+  `Y$$                        Icons: Adwaita [GTK3]
+   `Y$$.                      Terminal: kitty
+     `$$b.                    Terminal Font: Iosevka Term 18.0
+       `Y$$b.                 CPU: Intel i5-10600K (12) @ 4.800GHz
+          `"Y$b._             GPU: NVIDIA 01:00.0 NVIDIA Corporation Device 2507
+              `"""            Memory: 5185MiB / 15926MiB
+
+
+
+
 ```
