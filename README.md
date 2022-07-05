@@ -13,7 +13,7 @@
 </a>
 
 ## Setup
-OS: [Ubuntu](https://ubuntu.com/) with [i3](https://i3wm.org/) window manager<br>
+OS: [debian](https://www.debian.org/) with [i3](https://i3wm.org/) window manager<br>
 Terminal: [Kitty](https://sw.kovidgoyal.net/kitty/)<br>
 Shell: [ZSH](https://www.zsh.org/) with [OhMyZsh](https://ohmyz.sh/), [Starship Prompt](https://starship.rs/)<br>
 Editors: [micro](https://micro-editor.github.io/), [vscode](https://code.visualstudio.com/)
