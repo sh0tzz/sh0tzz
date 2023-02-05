@@ -1,5 +1,7 @@
 ## Main projects
 - [**team-sobraine/vinylist**](https://github.com/team-sobraine/vinylist) - Vinylist @ Infokup 2023 - Razvoj softvera
+- [**team-sobraine/vinylist-api**](https://github.com/team-sobraine/vinylist-api) - Vinylist @ Infokup 2023 - Razvoj softvera
+- [**team-sobraine/vinylist-scrapers**](https://github.com/team-sobraine/vinylist-scrapers) - Vinylist @ Infokup 2023 - Razvoj softvera
 - [**sh0tzz/SGL**](https://github.com/sh0tzz/SGL) - C++ GUI library
 - [**sh0tzz/os**](https://github.com/sh0tzz/os) - FexiOS
 
