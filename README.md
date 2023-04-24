@@ -5,11 +5,11 @@
 ## Languages
 [![Lagnuages](https://skillicons.dev/icons?i=c,py,md,html,css,js,nodejs,sass,arduino&theme=dark)](https://skillicons.dev)
 ## Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,express,styledcomponents,vue,vite,webpack,bootstrap,electron,django,flask,gtk&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=express,styledcomponents,flask,gtk&theme=dark)](https://skillicons.dev)
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=atom,vscode,linux,bash,git,cmake,regex,sqlite,mongodb,stackoverflow,svg,autocad,ps,discord&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,linux,bash,git,cmake,regex,sqlite,stackoverflow,autocad,ps,discord&theme=dark)](https://skillicons.dev)
 ## Services
-[![Hosting](https://skillicons.dev/icons?i=cloudflare,firebase,mongodb,gcp,github&theme=dark)](https://skillicons.dev)
+[![Hosting](https://skillicons.dev/icons?i=cloudflare,firebase,github&theme=dark)](https://skillicons.dev)
 
 ## Teams
 Member of [**@team-sobraine**](https://github.com/team-sobraine)
