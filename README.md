@@ -1,6 +1,6 @@
 ## Main projects
 - [**sh0tzz/SGL**](https://github.com/sh0tzz/SGL) - C++ GUI library
-- [**sh0tzz/os**](https://github.com/sh0tzz/os) - FexiOS
+- [**sh0tzz/narda**](https://github.com/sh0tzz/narda) - narda programming language
 
 ## Teams
 - [**@tsrb-blenk**](https://github.com/tsrb-blenk)
